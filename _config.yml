@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: ESAI
+email: info@esai.info
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ESAI is an international, student-run, non-profit organization that aims to
+  help Ethiopian students progress academically, improve the lives of Ethiopians,
+  and create a networking environment between Ethiopian students and
+  professionals.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: "@myESAi"
+github_username:  myesai
 
 # Build settings
 markdown: kramdown
